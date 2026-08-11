@@ -146,4 +146,4 @@ Như tôi đã nói hoặc chưa nói thì bạn cũng có thể hiểu cái gam
 
 ## License
 
-CCO cho các bạn phá nhé:)
+CC0 cho các bạn phá nhé:)
