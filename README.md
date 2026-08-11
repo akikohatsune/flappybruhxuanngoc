@@ -143,3 +143,7 @@ Nếu muốn tạo bản bất tử để test/debug, cần xử lý ít nhất 
 Như tôi đã nói hoặc chưa nói thì bạn cũng có thể hiểu cái game của l này làm ra chỉ để ragebait, còn chú ấy bảo tôi rảnh thì tôi rảnh thì tôi đang không có việc gì để làm=)))))
 
 <img width="349" height="360" alt="image" src="https://github.com/user-attachments/assets/c209df3c-638f-4779-bbbe-b561a83eda6d" />
+
+## License
+
+CCO cho các bạn phá nhé:)
