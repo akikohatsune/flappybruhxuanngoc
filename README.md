@@ -139,7 +139,7 @@ Nếu muốn tạo bản bất tử để test/debug, cần xử lý ít nhất 
 ```
 # Update: 
 
-Hiện tại thì tôi đã cheat xong con game này r, yêu cầu tampermonkey và một chút kinh nghiệm về cách dùng tampermonkey. Bạn có thể cài nó qua [flappybruhxuanngoc.user.js](https://github.com/akikohatsune/flappybruhxuanngoc/blob/main/flappybruhxuanngoc.user.js) sau đó thì tận hưởng thành quả thôi:)
+Hiện tại thì tôi đã cheat xong con game này r, yêu cầu tampermonkey và một chút kinh nghiệm về cách dùng tampermonkey. Bạn có thể cài nó qua [flappybruhxuanngoc.user.js](https://raw.githubusercontent.com/akikohatsune/flappybruhxuanngoc/main/flappybruhxuanngoc.user.js) sau đó thì tận hưởng thành quả thôi:)
 
 https://github.com/user-attachments/assets/6cea39be-19d9-4bd6-b885-577b29049e2b
 
