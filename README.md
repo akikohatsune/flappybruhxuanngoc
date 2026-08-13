@@ -128,7 +128,7 @@ location.reload();
 
 <img width="508" height="439" alt="image" src="https://github.com/user-attachments/assets/c623dca5-4a9b-4fa4-8660-1c06cb0b56ac" />
 
-## 9. Ý tưởng về “God Mode”
+## 4. Ý tưởng về “God Mode”
 
 Nếu muốn tạo bản bất tử để test/debug, cần xử lý ít nhất ba chỗ:
 
@@ -137,6 +137,11 @@ Nếu muốn tạo bản bất tử để test/debug, cần xử lý ít nhất 
 2. Tắt va chạm với ống -> eu().
 3. Tắt hoặc clamp va chạm trần/sàn thay vì gọi -> eu().
 ```
+# Update: 
+
+Hiện tại thì tôi đã cheat xong con game này r, yêu cầu tampermonkey và một chút kinh nghiệm về cách dùng tampermonkey. Bạn có thể cài nó qua [flappybruhxuanngoc.user.js](https://github.com/akikohatsune/flappybruhxuanngoc/blob/main/flappybruhxuanngoc.user.js) sau đó thì tận hưởng thành quả thôi:)
+
+https://github.com/user-attachments/assets/6cea39be-19d9-4bd6-b885-577b29049e2b
 
 ## Kết luận
 
